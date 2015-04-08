@@ -8,6 +8,7 @@ You can find the dataset zip at the end of this link:
 
 
 Once in the extracted folder, you can source it via the rstudio IDE or with:
+
     source('../UCI_HAR_Dataset/run_analysis.R', echo=TRUE)
 
 
