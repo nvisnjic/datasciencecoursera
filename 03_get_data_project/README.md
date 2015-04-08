@@ -2,8 +2,13 @@
 ## Running the script ##
 To run the script place it in the extracted UCI\_HAR\_Dataset folder root and source it.
 
+
 You can find the dataset zip at the end of this link:
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
+
+
+Once in the extracted folder, you can source it via the rstudio IDE or with:
+    source('../UCI_HAR_Dataset/run_analysis.R', echo=TRUE)
 
 
 ## Script processing steps ##
